@@ -2,9 +2,11 @@
 
 
 # Ignore any virtual environment folders and files
+alien_invasion_project/Include/
 alien_invasion_project/Lib/
 alien_invasion_project/Scripts/
 alien_invasion_project/pyvenv.cfg
+alien_invasion_project/alien_invasion_project/
 
 # General Python ignores
 my_env/
